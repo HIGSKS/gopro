@@ -1,4 +1,2 @@
 # gopro
 hi
-s
-z
